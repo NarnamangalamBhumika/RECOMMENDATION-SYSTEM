@@ -62,7 +62,9 @@ The dataset used is the ratings_small.csv file from The Movies Dataset, availabl
 PLATFORM USED :
 
 •	Python Programming Language
+
 •	Jupyter Notebook or any Python IDE
+
 •	Surprise Library (built on NumPy, SciPy, and Scikit-learn)
 
 APPLICATIONS OF RECOMMENDATION SYSTEMS :
