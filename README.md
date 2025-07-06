@@ -58,7 +58,9 @@ The dataset used is the ratings_small.csv file from The Movies Dataset, availabl
 •	userId: Unique ID for each user.
 •	movieId: Unique ID for each movie.
 •	rating: The rating (0.5 to 5.0) given by a user to a movie.
-PLATFORM USED
+
+PLATFORM USED :
+
 •	Python Programming Language
 •	Jupyter Notebook or any Python IDE
 •	Surprise Library (built on NumPy, SciPy, and Scikit-learn)
