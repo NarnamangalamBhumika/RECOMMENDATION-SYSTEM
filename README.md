@@ -82,3 +82,6 @@ CONCLUSION :
 The implementation demonstrated above provides a basic yet powerful framework for building a collaborative filtering-based movie recommendation system using the SVD algorithm. Leveraging the Surprise library simplifies model training, testing, and evaluation. With the increasing volume of user data online, such systems are crucial in offering personalized experiences.
 Despite its effectiveness, the system can be further improved by incorporating content-based features, contextual information, or hybrid methods that combine multiple recommendation strategies. Visualization tools and performance metrics help monitor and refine the model. Ultimately, recommendation systems represent a vital technology in data-driven decision-making and user engagement across digital platforms.
 
+OUTPUT :
+
+<img width="501" height="53" alt="Image" src="https://github.com/user-attachments/assets/13a17be4-6d9f-46b6-abfa-a4e295e84657" />
